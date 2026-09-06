@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CatFactFetcher.ConsoleApp/CatFactFetcher.ConsoleApp.csproj" />
+  <Project Path="CatFactFetcher.Tests/CatFactFetcher.Tests.csproj" />
+</Solution>
